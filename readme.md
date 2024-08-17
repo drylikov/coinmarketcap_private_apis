@@ -6,7 +6,7 @@ Convert CoinMarketCap's private APIs to public APIs
 
 Clone repo
 ```bash
-git clone https://github.com/ozgrozer/coinmarketcap-private-apis.git
+git clone https://github.com/drylikov/coinmarketcap-private-apis.git
 ```
 
 Change directory
